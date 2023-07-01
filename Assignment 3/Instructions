@@ -1,0 +1,26 @@
+CIS 468 Assignment 3: Classification Experiment 1: Comparing KNN, Naïve Bayes, and Decision Trees
+Spring 2022
+
+Due date: 04/02/2023 11:59 pm
+
+Instructions: This is an individual assignment. Use Blackboard to submit your answers on the due date (no hard copies please). Late submissions will receive a zero grade.
+
+Classification Experiment:  Choose a dataset with that is suited for classification (has a categorical variable that can be predicted).  Refer to the Places to Find Data folder found in the Course Content section of the Blackboard site for websites that have interesting datasets.  You are free to use any dataset that you are interested in exploring and you are free to be creative with your analysis.  
+
+You should use the R functions provided in the labs as a guide for the methods to be used in the analysis.
+
+Write a report showing the results of your data wrangling.  The detailed requirements for the assignment are as follows:
+
+•	Introduce the problem.
+•	Describe the dataset.
+•	Perform exploratory data analysis to understand the variables in the dataset
+•	Partition your dataset using the holdout method.
+•	Create classification models using the following three algorithms:
+o	K-Nearest Neighbor
+o	Naïve Bayes
+o	Decision Tree
+•	Train the classification models using either the entire training set, cross validation, or bootstrapping.
+•	Compare the results of the classifiers using the same experimental setup using one or more classification evaluation methods discussed in class including accuracy, error rate, sensitivity, specificity, precision, recall, and F measure.
+•	Write a report using the report template found on the Blackboard site as a guide for writing the report.  
+o	The required sections are the Introduction, Data and Methods, Results, and Conclusion and Discussion.
+o	The report should give a description of the dataset, the classifiers that you are using, the experimental setup (holdout method), the method used for training (entire training set, cross validation, bootstrapping) the algorithms, and present the results of the classifiers including evaluation metrics and the resulting confusion tables.  Finally, a comparison of each classifier should be presented.
