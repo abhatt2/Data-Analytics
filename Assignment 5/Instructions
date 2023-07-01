@@ -1,0 +1,20 @@
+CIS 468 Assignment 5: Comparing Clustering Methods
+Spring 2023
+
+Due date: 05/07/2023 11:59 pm
+
+Instructions: This is an individual assignment. Use Blackboard to submit your answers on the due date (no hard copies please). Late submissions will receive a zero grade.
+
+Classification Experiment:  Choose a dataset with that is suited for classification (has a categorical variable that can be predicted).  Refer to the Places to Find Data folder found in the Course Content section of the Blackboard site for websites that have interesting datasets.  You are free to use any dataset that you are interested in exploring and you are free to be creative with your analysis.  
+
+You should use the R functions provided in the labs as a guide for the methods to be used in the analysis.
+
+Write a report showing the results of your data wrangling.  The detailed requirements for the assignment are as follows:
+
+•	Introduce the clustering problem.
+•	Describe the dataset.
+•	Perform exploratory data analysis to understand the variables in the dataset
+•	Choose a clustering algorithm (k-means, k-medoids, hierarchical clustering, or DBSCAN)
+•	Analyze the results of the cluster analysis by varying parameters of the chosen clustering algorithm (k for partitioning-based approaches and minpts and eps for DBSCAN) using the silhouette coefficient or SSE and use the elbow method to find the best value for the parameters.
+•	Visualize the results of the best clustering using box plots, density plots, or stacked bar charts.
+•	Write a report using the report template found on the Blackboard site as a guide for writing the report.  
