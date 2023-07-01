@@ -1,0 +1,19 @@
+CIS 468 Assignment: Exploratory Data Analysis
+Spring 2023
+
+
+Due date: 02/12/2023 11:59 pm
+
+Instructions: This is an individual assignment. Use Blackboard to submit your answers on the due date (no hard copies please). Late submissions will receive a zero grade.
+
+Exploratory data analysis with R:  Choose a dataset with at least five attributes.  Refer to the Places to Find Data folder found in the Course Content section of the Blackboard site for websites that have interesting datasets.  You are free to use any dataset that you are interested in exploring and you are free to be creative with your analysis.  
+
+You should use the R functions provided in the labs as a guide for the methods to be used in the analysis.
+
+Write a report showing your exploratory data analysis.  The detailed requirements for the assignment are as follows:
+
+•	Use the report template found on the Blackboard site as a guide for writing the report.  The required sections are the Introduction, Data and Methods, Results, and Conclusion and Discussion.
+•	Calculate and describe descriptive statistics for the data including measures of central tendency, dispersion, and skewedness.  If you have a dataset with a large number of variables, you can select 4 or 5 variables to first explore individually.  This will then give you a good number of variables to explore relationships between.  It would be a good idea to choose both categorical and numeric variables to explore since it gives you more options for visualization.
+•	Create and describe visualizations of the distribution of the attributes. For numeric variables, you can use density plots, histograms or box plots.  For categorical variables, bar plots and dot plots can be used to show the count in each category.
+•	Create and describe visualizations that show relationships between attributes.  For numeric variables, you can use scatter plots and overlaid density plots. For categorical variables, you use stacked bar plots, side-by-side bar plots, or shadow plots.
+
