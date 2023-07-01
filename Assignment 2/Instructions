@@ -1,0 +1,23 @@
+CIS 468 Assignment 2: Cleaning, Selecting, and Transforming Data
+Spring 2023
+
+Due date: 03/12/2023 11:59 pm
+
+Instructions: This is an individual assignment. Use Blackboard to submit your answers on the due date (no hard copies please). Late submissions will receive a zero grade.
+
+Choose a dataset with at least five attributes.  Refer to the Places to Find Data folder found in the Course Content section of the Blackboard site for websites that have interesting datasets.  You are free to use any dataset that you are interested in exploring and you are free to be creative with your analysis.  
+
+You should use the R functions provided in the labs as a guide for the methods to be used in the analysis.
+
+Write a report showing the results of your data wrangling.  The detailed requirements for the assignment are as follows:
+
+•	Use the report template found on the Blackboard site as a guide for writing the report.  The required sections are the Introduction, Data and Methods, Results, and Conclusion and Discussion.
+•	Select at least three of the following and report your results:
+o	Analyze the variables of your dataset for missing and invalid values and try to explain if they are random or systematic.  Report the missing and invalid values for each variable and 
+o	Analyze the variables of your dataset to find outliers. Use both normal distribution-based methods (standard deviation, z-score, and IQR) and visualization methods (histogram and box plot)
+o	Combine a categorical variable with a large number of categories into a new variable with a smaller number of categories.
+o	Subset your dataset based on a categorical or numeric variable and present descriptive statistics and visualizations of the distribution for each subset.
+o	Select at least three numeric variables and normalize (rescale) their values to the same scale using min-max normalization or z-score normalization.
+o	Find a skewed variable and test the three transformations for normality (square root, inverse square root, and natural log).  Present the results to show which method results in the most symmetric distribution.
+o	Convert a numeric variable to a categorical variable using equal-width binning. Visualize the result using a bar plot.
+o	Convert a categorical variable to a set of flag variables.
